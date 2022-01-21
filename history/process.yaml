@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPS-SF03A-3A-FLORTD301-streamed-flort_d_data_record
 data_stream: RS03AXPS-SF03A-3A-FLORTD301-streamed-flort_d_data_record
-end_date: '2022-01-01T00:31:23.053Z'
-last_updated: '2022-01-01T08:27:31.129878'
+end_date: '2022-01-21T02:48:58.638Z'
+last_updated: '2022-01-21T09:11:26.563069Z'
 start_date: '2014-10-07T21:38:45.000Z'
-status: success
+status: pending
